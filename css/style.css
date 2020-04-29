@@ -1,0 +1,23 @@
+h1 {
+    color: #003A87;
+    background-color: #13FFEB;
+    text-align: center;
+}
+h2 {
+    color: #087C2E;
+    background-color: #0BFF5A;
+    font-style: italic;
+    text-align: centre;
+}
+p{
+    font-family: sans-serif;
+}
+ul {
+    line-height: 40px;
+}
+strong{
+    font-style: italic;
+}
+em{
+    font-style: bold;
+}
